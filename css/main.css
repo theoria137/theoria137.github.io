@@ -21,7 +21,14 @@
   a         { color: #2a7ae2; text-decoration: none; }
   a:hover   { color: #000; text-decoration: underline; }
   a:visited { color: #205caa; }
-  
+ 
+  /* table, th, td {
+    border: 1px solid;
+  } */
+  th, td {
+    padding-right: 30px;
+    text-align: left;
+  }
   /* Utility */
   
   .wrap:before,
