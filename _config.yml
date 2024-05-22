@@ -1,0 +1,19 @@
+
+# Site settings
+title: THEORIA
+email: hyqi.work@gmail.com
+description: "Journals of a Value Investor."
+baseurl: ""
+url: "http://karpathy.github.io"
+twitter_username: ""
+github_username: "" 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
