@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 includelink: true
 ---
-Coming soon...
+Current I'm focusing on Chinese and Hong Kong companies listed on HK or US exchanges.
